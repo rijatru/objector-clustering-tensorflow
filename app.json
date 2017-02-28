@@ -1,7 +1,6 @@
 {
-    "name": "tensorflow-mnist",
+    "name": "tensorflow-tf-idf",
     "buildpacks": [
-        { "url": "https://github.com/heroku/heroku-buildpack-nodejs" },
         { "url": "https://github.com/heroku/heroku-buildpack-python" }
     ]
 }
